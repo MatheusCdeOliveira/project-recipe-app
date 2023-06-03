@@ -15,6 +15,8 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
   </p>
 <br>
 
+[Visite o App](https://project-recipe-app-three.vercel.app/)
+
 <details>
   <summary><strong>🛠 Tecnologias utilizadas</strong></summary><br />
 ### 🛠 Tecnologias
